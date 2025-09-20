@@ -1,0 +1,21 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8"/>
+  <title>Mini Tech Challenge - Call Analyzer</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 40px; }
+    textarea { width: 100%; height: 200px; font-size: 14px; }
+    .btn { padding: 10px 16px; background: #0b79d0; color: white; border:none; border-radius:6px; cursor:pointer; }
+    .card { border: 1px solid #ddd; padding: 16px; border-radius:8px; margin-top:16px; }
+  </style>
+</head>
+<body>
+  <h1>Call Analyzer</h1>
+  <p>Paste a short customer call transcript below and click <strong>Analyze</strong>.</p>
+  <form method="post" action="/analyze">
+    <textarea name="transcript" placeholder="e.g. Hi, I was trying to book a slot yesterday but the payment failed..."></textarea><br/>
+    <button class="btn" type="submit">Analyze</button>
+  </form>
+</body>
+</html>

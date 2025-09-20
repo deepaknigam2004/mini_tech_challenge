@@ -1,0 +1,5 @@
+Agent: Hi, thank you for calling FlyHigh support. How can I assist you today?
+Customer: I was trying to book a slot yesterday, but the payment failed and I didn't get a confirmation email. I need help rebooking.
+Agent: I'm sorry about that. Did you get charged?
+Customer: Yes, but the bank says it was declined and I saw a pending charge.
+Agent: I'll open a ticket and escalate to billing; can I have your booking reference?

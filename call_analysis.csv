@@ -1,0 +1,10 @@
+Transcript,Summary,Sentiment
+"Hi, I was trying to book a slot yesterday but the payment failed…","Hi, I was trying to book a slot yesterday but the payment failed….",Negative
+"Hi, I was trying to book a slot yesterday but the payment successfull...
+","Hi, I was trying to book a slot yesterday but the payment successfull.",Positive
+hi deepak,User greets Deepak.,Neutral
+"Hi, I was trying to book a slot yesterday but the payment failed",Customer attempted to book a slot yesterday but the payment failed. They are seeking assistance to resolve the issue.,Negative
+I want to order something sweet.,"The customer wants to order something sweet and is ready to proceed with their purchase.
+They are simply expressing a desire to place an order for a sweet item.",Positive
+I want to order something sweet.,The user wants to order a sweet item. They have not provided any further details or preferences.,Neutral
+"Hi, I was trying to book a slot yesterday but the payment failed…",Customer attempted to book a slot but encountered a payment failure and is looking for assistance.,Negative
