@@ -6,11 +6,8 @@ This project implements the requested mini challenge:
 - Print and save results into `call_analysis.csv` with columns: Transcript | Summary | Sentiment.
 
 ## 📱 Screenshots
-![Screenshot1]()
 <img width="1890" height="885" alt="Screenshot 2025-09-20 145057" src="https://github.com/user-attachments/assets/10b46256-ca75-41a7-9a1f-dd9216551f2a" />
 <img width="1905" height="896" alt="Screenshot 2025-09-20 145037" src="https://github.com/user-attachments/assets/3c48575d-11f1-4470-96a9-85df6d62d81d" />
-
-![Screenshot2](https://github.com/user-attachments/assets/73536c78-ad5a-423e-9d97-86932d5e07b3)
 
 ---
 
